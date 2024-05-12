@@ -1,0 +1,26 @@
+body{
+
+h1{
+
+font-family: 'Courier New', Courier, monospace;  
+  font-size: larger;
+    font-style: inherit;
+
+
+}
+#a{
+    color: gold;
+    background-color: aqua;}
+#b{
+
+color: red;
+background-color: rgb(175, 240, 255);
+
+
+}
+#cc{
+    text-align: center;
+  background-color: rgb(240, 159, 201);
+
+}
+}

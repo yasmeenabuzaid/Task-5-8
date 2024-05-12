@@ -1,0 +1,10 @@
+
+         body {
+            
+            
+            background-image: url(R.jpg),url(OIP.jpg);
+            background-repeat: repeat-y,repeat-x;
+            background-size: 200px;
+            
+         }
+        

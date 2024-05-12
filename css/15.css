@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+#a{
+    color: red;
+}
+
+img{
+    border: 5px solid green;
+    border-radius: 50%;
+    height: 108px;
+    width: 99px;
+}
+
+#d{
+    background-color: rgb(179, 133, 133);
+}
+#l{
+background-color: rgb(167, 109, 158);
+}
+#m{
+    
+    padding: 1p;
+    
+}

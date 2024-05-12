@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+
+div{
+   
+  margin: 10;
+color: #000;
+h1{
+    text-align: center;
+    background-color: rgb(201, 129, 129);
+    padding: 8px;
+}
+input{
+    text-align: rtl;
+    padding-top: 20px;
+    padding-bottom:20px;
+    padding-right:8px;
+    padding-left:1300px;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 4px;
+}
+.l{
+    background-color: greenyellow;
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom:20px;
+    padding-right:8px;
+    border: 3px solid rgb(0, 0, 0);
+    padding-left:1300px;}
+}

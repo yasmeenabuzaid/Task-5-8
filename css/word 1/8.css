@@ -1,0 +1,14 @@
+body{
+
+    background-color: aqua;
+    #a{
+        color: red;
+        background-color: aliceblue;
+    
+    }
+   #b{
+      color: aliceblue;
+background-color: darkblue;
+   }
+
+}
